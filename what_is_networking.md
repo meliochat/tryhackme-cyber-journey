@@ -1,6 +1,6 @@
 # What is Networking?
 
-**Date completed:** [Add date here]  
+**Date completed:** [May]  
 **Difficulty:** Easy  
 **Tags:** Networking, Fundamentals
 
