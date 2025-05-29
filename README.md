@@ -15,5 +15,5 @@ Each file contains a personal summary of the concepts learned and tools used.
 
 ---
 
-**Profile:** [My TryHackMe]([https://tryhackme.com/](https://tryhackme.com/p/meliochat))  
+**Profile:** [My TryHackMe]([https://tryhackme.com/](https://tryhackme.com/p/meliochat)  
 **Language:** English 🇬🇧 (to prepare for international job opportunities 🌎)
